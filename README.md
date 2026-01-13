@@ -43,11 +43,6 @@ Conditional logic
 
 Iteration
 
-📂 Project Structure
-task-manager/
-│
-├── task_manager.py
-└── README.md
 
 🧾 Code Overview
 Task Class
